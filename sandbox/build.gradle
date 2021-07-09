@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+mainClassName = "Main"
+
+group 'com.stamacake'
+version '0.01'
+
+repositories {
+    mavenCentral()
+}
